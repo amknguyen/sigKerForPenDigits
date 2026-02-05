@@ -8,12 +8,12 @@ on UCI's PenDigits dataset (1998).
 
 Here are some current visulations: \
 2D: Here, red digits indicate the time-step ordering: \
-![2D Digit Path](./2d.png) 
+![2D Digit Path](/main/2d.png) 
 
 3D: Here, time-augmentation gives time its own axis, which greatly improves model performance; 
 lighter colors represent earlier times:
-![3D Digit Path 1](./3d1.png) 
-![3D Digit Path 2](./3d2.png) 
+![3D Digit Path 1](/main/3d1.png) 
+![3D Digit Path 2](/main/3d2.png) 
 
 ### Extensions:
 While the current implementation uses signature kernels as a feature map for a linear classifer,
